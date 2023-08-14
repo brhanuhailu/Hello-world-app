@@ -53,7 +53,7 @@
 
 ## Key Features <a name="key-features"></a>
 
-- Create an API endpint using rails.
+- Create an API endpint by using rails.
 - Use webpack.
 - Create rails-react app
 
