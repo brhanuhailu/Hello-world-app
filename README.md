@@ -29,7 +29,7 @@
 
 # Hello world- <a name="about-project"></a>
 
-**Hello world** Implement a connection between a Ruby on Rails back-end and React front-end. Therefore,Understanding the pros and cons of different approaches of connecting Ruby on Rails back-end with React front-end has been done.
+**Hello world** Implement a connection between a Ruby on Rails back-end and React front-end. Therefore,Understanding the pros and cons of different approaches of connecting Ruby on Rails back-end with React front-end has been done. ROR in one app project is done.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -43,8 +43,8 @@
     <li><a href="https://www.postgresql.org/">Postgresql</a></li>
   </ul>
   <summary>Client</summary>
-    <li><a href="#">Webpack</a><li>
-    <li><a href="#">React</a><li>
+    <li><a href="https://webpack.js.org/">Webpack</a><li>
+    <li><a href="https://react.dev/">React</a><li>
 </details>
 
 <p align="right"><a href="#readme-top">back to top</a></p>
@@ -106,6 +106,7 @@
 
 - [ ] **interactive layout user interface**
 - [ ] **API Separate**
+- [ ] **Create two app**
 
 <!-- CONTRIBUTING -->
 
@@ -121,7 +122,7 @@ Feel free to check the [issues page](https://github.com/brhanuhailu/Hello-world-
 
 ## ⭐️ Show your support <a name="support"></a>
 
-Give a ⭐️ if you like this project and your feedback is necessary
+Give a ⭐️ if you like this project and your feedback is necessary. 
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
