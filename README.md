@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3><b>Hello Rails-React with the Webpack</b></h3>
+  <h3><b>Hello Rails-React with the Webpack app</b></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -29,7 +29,7 @@
 
 # Hello world- <a name="about-project"></a>
 
-**Hello world** Implement a connection between a Ruby on Rails back-end and React front-end. Therefore,Understanding the pros and cons of different approaches of connecting Ruby on Rails back-end with React front-end has been done. ROR in one app project is done.
+**Hello world** Implement a connection between a Ruby on Rails back-end and React front-end. Therefore,Understanding the pros and cons of different approaches of connecting Ruby on Rails back-end with React front-end has been done. ROR in one app project is done. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -54,7 +54,7 @@
 ## Key Features <a name="key-features"></a>
 
 - Create an API endpint by using rails.
-- Use webpack.
+- Use webpack bundler.
 - Create rails-react app
 
 <!-- GETTING STARTED -->
