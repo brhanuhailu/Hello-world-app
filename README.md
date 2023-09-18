@@ -53,7 +53,7 @@
 
 ## Key Features <a name="key-features"></a>
 
-- Create an API endpint using rails.
+- Create an API endpint by using rails.
 - Use webpack.
 - Create rails-react app
 
@@ -122,13 +122,13 @@ Feel free to check the [issues page](https://github.com/brhanuhailu/Hello-world-
 
 ## ⭐️ Show your support <a name="support"></a>
 
-Give a ⭐️ if you like this project and your feedback is necessary. 
+Give a ⭐️ if you like this project and your feedback is necessary for the my professional. 
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- I would like to thank Microverse,all code reviewers and coding partners for making this project better.
+- I would like to thank Microverse,all code reviewers and coding partners for making project better.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- LICENSE -->
